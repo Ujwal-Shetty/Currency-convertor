@@ -1,6 +1,6 @@
 # Currency-convertor
 
-A simple curcuurncy convertor
+
 Api is Used to fetch $Country code and flags
 
 For currency convertion, 
